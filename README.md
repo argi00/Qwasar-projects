@@ -32,11 +32,6 @@ Run the project with the following command:
 ```bash
 ./my_project argument1 argument2
 ```
-
-## Team & Credits
-Developed at **Qwasar Silicon Valley**  
-![Qwasar Silicon Valley Logo](link_to_logo_image)
-
 ---
 
 I am thrilled to share this with you! 🙂
