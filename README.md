@@ -36,9 +36,9 @@ Run the project with the following command:
 
 I am thrilled to share this with you! 🙂
 <p align="center">
-  <img src="https://github.com/argi00/Qwasar-projects/blob/main/Certificate/Qwasar.io%20-%20Keep%20Growing-1.png" alt="Qwasar Logo 1" width="200"/>
-  <img src="https://github.com/argi00/Qwasar-projects/blob/main/Certificate/SOFT-1.png" alt="Qwasar Logo 2" width="200"/>
-  <img src="https://github.com/argi00/Qwasar-projects/blob/main/Certificate/data%20sciente%20qwasar-1.png" alt="Qwasar Logo 3" width="200"/>
+  <img src="https://github.com/argi00/Qwasar-projects/blob/main/Certificate/Qwasar.io%20-%20Keep%20Growing-1.png" alt="Qwasar Logo 1"/>
+  <img src="https://github.com/argi00/Qwasar-projects/blob/main/Certificate/SOFT-1.png" alt="Qwasar Logo 2"/>
+  <img src="https://github.com/argi00/Qwasar-projects/blob/main/Certificate/data%20sciente%20qwasar-1.png" alt="Qwasar Logo 3"/>
 </p
 ![Alt Text](https://github.com/argi00/Qwasar-projects/blob/main/Certificate/Qwasar.io%20-%20Keep%20Growing-1.png)
 
