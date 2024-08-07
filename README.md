@@ -1,7 +1,3 @@
-Certainly! Here's a revised version with a slightly different style:
-
----
-
 # Welcome to My Python and Data Science Portfolio
 ### Profile Views
 
