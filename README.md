@@ -35,4 +35,5 @@ Run the project with the following command:
 ---
 
 I am thrilled to share this with you! 🙂
+![Alt Text](https://github.com/argi00/Qwasar-projects/blob/main/Certificate/Qwasar.io%20-%20Keep%20Growing-1.png)
 
